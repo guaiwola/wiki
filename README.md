@@ -16,7 +16,7 @@ description: “Nie萌”网络加速器
 
 {% page-ref page="untitled/windows-xi-tong.md" %}
 
-{% page-ref page="untitled/ios-ping-guo-xi-tong.md" %}
+{% page-ref page="untitled/ios-xi-tong.md" %}
 
 {% page-ref page="untitled/android-an-zhuo-xi-tong.md" %}
 

@@ -3,7 +3,7 @@
 * [欢迎来到“Nie萌”](README.md)
 * [软件使用](untitled/README.md)
   * [Windows系统](untitled/windows-xi-tong.md)
-  * [IOS苹果系统](untitled/ios-ping-guo-xi-tong.md)
+  * [IOS苹果系统](untitled/ios-xi-tong.md)
   * [Android安卓系统](untitled/android-an-zhuo-xi-tong.md)
   * [Mac OS系统](untitled/mac-os-xi-tong.md)
   * [Shadowsocks下载](untitled/shadowsocks-zhong-ji-shi-yong-zhi-nan.md)
