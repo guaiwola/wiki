@@ -1,11 +1,12 @@
 # 免费App store账号
 
 {% hint style="warning" %}
-**感谢@Slower大佬提供，安全稳定。**
+**感谢@不愿意透露姓名的机场大佬提供，安全稳定。**
 {% endhint %}
 
 | 账号 | 密码 |
 | :--- | :--- |
+| 8.25更新：4SSGIT@Gmail.com | 4ssORG1234 |
 | 8.3更新：yuekass@126.com | Ssrssr01 |
 | 8.2更新：GET@shadowrocket.online | 66GET@shadowrocket.online |
 | 8.1更新：loveusipad@gmail.com | Help0104 |
