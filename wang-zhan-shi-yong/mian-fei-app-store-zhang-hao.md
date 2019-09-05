@@ -6,6 +6,7 @@
 
 | 账号 | 密码 |
 | :--- | :--- |
+| 9/3更新支持下载圈和小火箭：smgyangfan02@163.com | 13gongzhonghao:SMGfuli |
 | 8.25更新：4SSGIT@Gmail.com | 4ssORG1234 |
 | 8.3更新：yuekass@126.com | Ssrssr01 |
 | 8.2更新：GET@shadowrocket.online | 66GET@shadowrocket.online |
