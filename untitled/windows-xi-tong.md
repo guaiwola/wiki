@@ -22,57 +22,41 @@ description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
 
 ## 下载客户端并安装（Windows 7 & Windows 10）
 
+![](../.gitbook/assets/tim-tu-pian-20190910164706.png)
 
+## 解压后打开ShadowsocksR.exe
 
-### 获取应用
+1. 右下角任务栏找到红色小飞机，点击右键
+2. 找到服务器订阅-选择SSR服务器订阅设置
+3. 点击Add----在网址栏（全选后）把订阅地址粘贴进去
 
-[免费下载 ShadowsocksR for Windows](https://github.com/spirits5052/SSR-Client/raw/master/Windows/ShadowsocksR.zip)
+![](http://eqfssr.com/images/win001.png)
 
-**客户端必须使用我们提供的版本**
+![](../.gitbook/assets/image%20%284%29.png)
 
-由于开源项目 ShadowsocksR for Windows 长时间无人维护更新，导致其不支持 TLS 1.0 版本以上的加密协议，而我们的订阅服务器已升级至 TLS 1.2 ，因此网络上下载的版本可能不支持我们的订阅功能。
+![](http://eqfssr.com/images/win004.png)
 
-### 配置客户端  ![](https://github.com/spirits5052/SSR-Client/raw/master/Resources/images/subscript.jpg)
-
-1. 1、登陆[客户中心](https://www.ssglo.net/clientarea.php)，前往套餐详情页复制订阅网址，如上面的图片位置。[还是找不到订阅网址？](https://www.ssglo.net/index.php?rp=/knowledgebase/33)
-2. 2、如果您使用 Windwows 7,请务必安装 [.NET Framework 4.7.2](https://go.microsoft.com/fwlink/?LinkID=863265) 。
-3. 3、运行 ShadowsocksR.exe ,右键单击任务栏的 __ 图标弹出主菜单。
-4. 4、点击「订阅设置」菜单进入订阅设置窗口，粘贴第 1 步复制的订阅网址后点击「确定」。
-5. 5、点击「更新订阅」菜单以同步服务器节点。订阅成功会加载节点出了，[更新订阅失败？](https://www.ssglo.net/index.php?rp=/knowledgebase/36)
-6. 6、点击「服务器」菜单选取合适的节点。
+![](http://eqfssr.com/images/win005.png)
 
 
 
-{% tabs %}
-{% tab title="视频教程" %}
-[https://github.com/spirits5052/SSR-Client/raw/master/Windows/Resources/MeagerMemorableAsiaticlesserfreshwaterclam-mobile.mp4](https://github.com/spirits5052/SSR-Client/raw/master/Windows/Resources/MeagerMemorableAsiaticlesserfreshwaterclam-mobile.mp4)
-{% endtab %}
-{% endtabs %}
+### 右下角任务栏找到红色小飞机，点击右键，服务器--Nie萌----选择一条你想用的节点，点击左键选中。
+
+![](../.gitbook/assets/image%20%285%29.png)
+
+### 任务栏右键--找到系统代理模式---选择PAC模式（左键点击）即可正常访问外网。如果打不开外网，请尝试更换另外一个节点或者换（全局模式）
+
+![](http://eqfssr.com/images/win008.png)
+
+## 成功访问youtube!
+
+![](http://eqfssr.com/images/win009.png)
 
 ### 
 
-### Windwos系统设置教程
+### 
 
-### 获取应用
-
-[免费下载 ShadowsocksR for Windows](https://github.com/spirits5052/SSR-Client/raw/master/Windows/ShadowsocksR.zip)
-
-**客户端必须使用我们提供的版本**
-
-由于开源项目 ShadowsocksR for Windows 长时间无人维护更新，导致其不支持 TLS 1.0 版本以上的加密协议，而我们的订阅服务器已升级至 TLS 1.2 ，因此网络上下载的版本可能不支持我们的订阅功能。
-
-### 配置客户端  ![](https://github.com/spirits5052/SSR-Client/raw/master/Resources/images/subscript.jpg)
-
-1. 1、登陆[客户中心](https://www.ssglo.net/clientarea.php)，前往套餐详情页复制订阅网址，如上面的图片位置。[还是找不到订阅网址？](https://www.ssglo.net/index.php?rp=/knowledgebase/33)
-2. 2、如果您使用 Windwows 7,请务必安装 [.NET Framework 4.7.2](https://go.microsoft.com/fwlink/?LinkID=863265) 。
-3. 3、运行 ShadowsocksR.exe ,右键单击任务栏的 __ 图标弹出主菜单。
-4. 4、点击「订阅设置」菜单进入订阅设置窗口，粘贴第 1 步复制的订阅网址后点击「确定」。
-5. 5、点击「更新订阅」菜单以同步服务器节点。订阅成功会加载节点出了，更新订阅失败？
-6. 6、点击「服务器」菜单选取合适的节点。
-
- 教程视频：
-
-### 如果更新訂閱失敗
+## **如果更新訂閱失敗**
 
 如果更新订阅失败，可以使用浏览器打开订阅网址，根据返回的信息来判断更新失败的原因。
 
