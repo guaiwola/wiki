@@ -41,13 +41,13 @@ description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
 5. 5、点击「更新订阅」菜单以同步服务器节点。订阅成功会加载节点出了，[更新订阅失败？](https://www.ssglo.net/index.php?rp=/knowledgebase/36)
 6. 6、点击「服务器」菜单选取合适的节点。
 
- 教程视频：
 
 
-
-
-
-src="[https://github.com/spirits5052/SSR-Client/raw/master/Windows/Resources/MeagerMemorableAsiaticlesserfreshwaterclam-mobile.mp4](https://github.com/spirits5052/SSR-Client/raw/master/Windows/Resources/MeagerMemorableAsiaticlesserfreshwaterclam-mobile.mp4)"
+{% tabs %}
+{% tab title="视频教程" %}
+[https://github.com/spirits5052/SSR-Client/raw/master/Windows/Resources/MeagerMemorableAsiaticlesserfreshwaterclam-mobile.mp4](https://github.com/spirits5052/SSR-Client/raw/master/Windows/Resources/MeagerMemorableAsiaticlesserfreshwaterclam-mobile.mp4)
+{% endtab %}
+{% endtabs %}
 
 ### 
 
