@@ -20,7 +20,7 @@ description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
 **如果您坚持不卸载以上的各种软件，那么我建议您不要使用我们的服务，因为您的智商可能过低，可能易被某些国外团体洗脑易造成您的身心不适~**
 {% endhint %}
 
-## 下载客户端并安装（Windows 7 & Windows 10）
+## [下载客户端并安装（Windows 7 & Windows 10）](https://jichang.cn-bj.ufileos.com/app/nie.exe)
 
 ![](../.gitbook/assets/tim-tu-pian-20190910164706.png)
 
