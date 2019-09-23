@@ -1,5 +1,7 @@
 ---
 description: “Nie萌”网络加速器
+description: “www.nie.im”
+## 目前（6）台，免费节点使用
 ---
 
 # 欢迎来到“Nie萌”
