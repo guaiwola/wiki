@@ -30,13 +30,7 @@ description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
 2. 找到服务器订阅-选择SSR服务器订阅设置
 3. 点击Add----在网址栏（全选后）把订阅地址粘贴进去
 
-![](http://eqfssr.com/images/win001.png)
-
 ![](../.gitbook/assets/image%20%284%29.png)
-
-![](http://eqfssr.com/images/win004.png)
-
-![](http://eqfssr.com/images/win005.png)
 
 
 
@@ -46,11 +40,7 @@ description: 适用系统：Windows 7 32/64位 & Windows 10 32/64位
 
 ### 任务栏右键--找到系统代理模式---选择PAC模式（左键点击）即可正常访问外网。如果打不开外网，请尝试更换另外一个节点或者换（全局模式）
 
-![](http://eqfssr.com/images/win008.png)
-
 ## 成功访问youtube!
-
-![](http://eqfssr.com/images/win009.png)
 
 ### 
 
